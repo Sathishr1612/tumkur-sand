@@ -107,9 +107,9 @@ body {
 }
 
 .ts-logo {
-  height: 75px;  
+  height: 70px;  
   width: auto;
-  max-width: 160px;
+  max-width: 180px;
   object-fit: contain;
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.25));
 }
@@ -298,6 +298,7 @@ body {
   transform: rotate(180deg);
   opacity: 1;
 }
+
 
 
 /* ================= CALL BUTTON ================= */
